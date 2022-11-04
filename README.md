@@ -1,6 +1,5 @@
 Hi 👋 My name is Ayoub Aitouna
 ==============================
-[![aaitouna's 42 stats](https://badge.mediaplus.ma/darkblue/aaitouna)](https://github.com/oakoudad/badge42)
 full stack developer
 --------------------
 
