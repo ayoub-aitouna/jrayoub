@@ -6,13 +6,13 @@ full stack developer
 I've been developing android apps for 3 years, & I started with react js & backend development around 2 years ago.
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [MyPortfolio](http://jrayoub.github.io/AyoubAitouna/)
+* 🖥️  See my portfolio at [MyPortfolio](https://ayoub-aitouna.github.io/AyoubAitouna/)
 * ✉️  You can contact me at [aitounaayoub05@gmail.com](mailto:aitounaayoub05@gmail.com)
 * 🧠  I'm learning Nextjs , jitpack compose, flutter
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/jrayoub" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jrayoub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/ayoub-aitouna" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ayoub-aitouna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -33,14 +33,14 @@ src="https://img.shields.io/github/followers/jrayoub?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/ayoub.aitouna.94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jrayoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayoub-aitouna-027a25205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ayoub_Aitouna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/ayoub.aitouna.94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ayoub-aitouna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayoub-aitouna-027a25205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ayoub_Aitouna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jrayoub"><img src="https://github-readme-stats.vercel.app/api?username=jrayoub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jrayoub's GitHub stats" /></a>
+<a href="http://www.github.com/ayoub-aitouna"><img src="https://github-readme-stats.vercel.app/api?username=ayoub-aitouna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayoub-aitouna's GitHub stats" /></a>
 
-<a href="http://www.github.com/jrayoub"><img src="https://activity-graph.herokuapp.com/graph?username=jrayoub&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ayoub-aitouna"><img src="https://activity-graph.herokuapp.com/graph?username=ayoub-aitouna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jrayoub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrayoub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ayoub-aitouna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-aitouna&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
